@@ -1,0 +1,2 @@
+Student_Name,RG Name,RG Location,DataFactory Name,Databricks Name,KeyVault Name,ADLSGen2 Name,Synapse Analytics Name,Databricks Cluster Name
+Akash,Aks-RG,EastUS,mydf-testing9793,databricks-ws,Aks-keyvault9734,myadlsgen2storage9794,synapsews97523,cluster1

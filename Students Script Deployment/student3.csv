@@ -1,0 +1,2 @@
+Student_Name,RG Name,RG Location,Vnet Name,Vnet Address,NSG Name,Private Subnet Name,Private Subnet Address,Public Subnet Name,Public Subnet Address,DataFactory Name,Databricks Name,KeyVault Name,ADLSGen2 Name,ADLSGen2 Container Name,Synapse Analytics Name,Databricks Cluster Name,Databricks Managed RG Name
+Akash,Aks-RG,EastUS,Vnet-1,10.10.0.0/16,Nsg-1,Subnet-dbw-cluster,10.10.1.0/26,Subnet-dbw-host,10.10.2.0/26,mydf-testing9794,databricks-ws,Aks-keyvault9747,myadlsgen2storage9798,datalake1,synapsews97523,cluster1,db-ws-rg1
