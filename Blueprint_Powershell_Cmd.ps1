@@ -16,3 +16,5 @@ Publish-AzBlueprint -Version $bpDefinitionPublishedVersion -Blueprint $bp
 $publishedBlueprint = Get-AzBlueprint -Name $bpDefinitionName -LatestPublished
 
 New-AzBlueprintAssignment -Name $bpAssignmentName -Blueprint $publishedBlueprint -AssignmentFile .\AssignmentFiles\nonprod.json
+
+# Set-AzBlueprintAssignment -Name $bpAssignmentName -Blueprint $publishedBlueprint -AssignmentFile .\AssignmentFiles\nonprod.json
